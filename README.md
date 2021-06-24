@@ -1,6 +1,6 @@
 ## 👋 Hi, My name is 8a2ed
 
-- 📞 You can contact me through **[Discord](https://discord.com/users/644999050655170570)** (**`.8à2éd#6492`**)
+- 📞 You can contact me through **[Discord](https://discord.com/users/644999050655170570)** (**`.8à2éd#0690`**)
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white">
