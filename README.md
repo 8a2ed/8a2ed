@@ -9,10 +9,10 @@
 - **[S-helper](https://discord.gg/vu8tfTUDmq) is a protection bot**
 - **[S-backup](https://discord.gg/nE4ky94J3j) is a backup/cloner bot**
 
-#### Languages and Tools I can work with:
+## Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/-repl.it-56676e?logo=repl.it&logoColor=white"></a>
-#### Stats:
+## Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=8a2ed&show_icons=true&hide_border=true&theme=algolia&icon_color=0000ff">
