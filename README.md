@@ -5,7 +5,7 @@
 - Youtube: **[Click me](https://www.youtube.com/channel/UCAo1iQzDnnQQwt7ftwjmjHA)**.
 - Pastebin: **[Click me](https://pastebin.com/u/8a2ed)**.
 
-- 🖥️ My projects:
+## 🖥️ My projects:
 - **[S-helper](https://discord.gg/vu8tfTUDmq) is a protection bot**
 - **[S-backup](https://discord.gg/nE4ky94J3j) is a backup/cloner bot**
 
