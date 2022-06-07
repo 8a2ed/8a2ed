@@ -1,13 +1,13 @@
 ## 👋 Hi, My name is 8a2ed
 
-- 📞 You can contact me through **[Discord](https://discord.com/users/644999050655170570)** (**`.8à2éd#0690`**)
+- 📞 You can contact me through **[Discord](https://discord.com/users/644999050655170570)** (**`8a2ed#0558`**)
 - Instagram: **[Click me](https://www.instagram.com/8a22ed/)**.
 - Youtube: **[Click me](https://www.youtube.com/channel/UCAo1iQzDnnQQwt7ftwjmjHA)**.
 - Pastebin: **[Click me](https://pastebin.com/u/8a2ed)**.
 
 ## 🖥️ My projects:
-- **[S-helper](https://discord.gg/vu8tfTUDmq) is a protection bot**
-- **[S-backup](https://discord.gg/nE4ky94J3j) is a backup/cloner bot**
+- **~~S-helper~~ is a protection bot**
+- **~~S-backup~~ is a backup/cloner bot**
 
 ## Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white">
