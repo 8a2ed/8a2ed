@@ -1,7 +1,7 @@
 ## 👋 Hi, My name is 8a2ed
 
 - 📞 You can contact me through **[Discord](https://discord.com/users/644999050655170570)** (**`8a2ed#8955`**)
-- Instagram: **[Click me](https://www.instagram.com/8a22ed/)**.
+- Instagram: **[Click me](https://www.instagram.com/8a2ed/)**.
 - Youtube: **[Click me](https://www.youtube.com/channel/UCAo1iQzDnnQQwt7ftwjmjHA)**.
 - Pastebin: **[Click me](https://pastebin.com/u/8a2ed)**.
 
