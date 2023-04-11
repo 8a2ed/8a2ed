@@ -1,4 +1,5 @@
-## 👋 Hey 8a2ed is here
+<h1 align="center">Hey 👋 8a2ed is here</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=8a2ed&label=Profile%20views&color=0e75b6&style=flat" alt="8a2ed" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
