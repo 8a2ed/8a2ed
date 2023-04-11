@@ -10,6 +10,7 @@
 
 <h3 align="center">My projects:</h3>
 <p align="center">
+<a href="https://discord.gg/s3vthx3Q7W" target="blank">**Musify is a multifunctional bot (Music, Giveaways, Activities ...etc).**</a>
 - **[Musify](https://discord.gg/s3vthx3Q7W) is a multifunctional bot (Music, Giveaways, Activities ...etc).**
 - **~~S-helper~~ is a protection bot.**
 - **~~S-backup~~ is a backup/cloner bot.**
