@@ -1,9 +1,11 @@
-## 👋 Hi, My name is 8a2ed
+## 👋 Hey 8a2ed is here
 
-- 📞 You can contact me through **[Discord](https://discord.com/users/644999050655170570)** (**`8a2ed#8955`**)
-- Instagram: **[Click me](https://www.instagram.com/8a2ed/)**.
-- Youtube: **[Click me](https://www.youtube.com/channel/UCAo1iQzDnnQQwt7ftwjmjHA)**.
-- Pastebin: **[Click me](https://pastebin.com/u/8a2ed)**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/8a2ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8a2ed" height="30" width="40" /></a>
+<a href="https://instagram.com/8a2ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="8a2ed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/8a2ed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="8a2ed" height="30" width="40" /></a>
+</p>
 
 ## 🖥️ My projects:
 - **[Musify](https://discord.gg/s3vthx3Q7W) is a multifunctional bot (Music, Giveaways, Activities ...etc).**
