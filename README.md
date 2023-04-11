@@ -6,8 +6,9 @@
 - Pastebin: **[Click me](https://pastebin.com/u/8a2ed)**.
 
 ## 🖥️ My projects:
-- **~~S-helper~~ is a protection bot**
-- **~~S-backup~~ is a backup/cloner bot**
+- (**Musify)[https://discord.gg/s3vthx3Q7W] is a multifunctional bot (Music, Giveaways, Activities ...etc).**
+- **~~S-helper~~ is a protection bot.**
+- **~~S-backup~~ is a backup/cloner bot.**
 
 ## Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white">
