@@ -8,6 +8,8 @@
 <a href="https://www.youtube.com/channel/UCAo1iQzDnnQQwt7ftwjmjHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="8a2ed" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Github trophies:</h3>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8a2ed" alt="8a2ed" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
