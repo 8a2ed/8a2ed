@@ -22,5 +22,3 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/8a2ed/8a2ed/output/snake.svg" alt="Snake animation" />
-
